@@ -1,0 +1,17 @@
+{
+    "name": "rifat/pos-system-lab-project",
+    "authors": [
+        {
+            "name": "Rifat",
+            "email": "sad@happy.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}
