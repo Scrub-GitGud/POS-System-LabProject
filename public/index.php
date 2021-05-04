@@ -1,6 +1,6 @@
 <?php
 
-require_once '../vendor/autoload.php';
+// require_once '../vendor/autoload.php';
 include_once "../Router.php";
 include_once "../Database.php";
 include_once "../Controllers/StoreCtrl.php";
